@@ -1,1 +1,1 @@
-This contains python files from Jose lessons.
+Contains python files from Jose lessons.
